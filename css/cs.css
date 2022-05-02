@@ -1,0 +1,49 @@
+.esp{
+    margin-bottom: 30px;
+    text-align: center;
+}
+.izq{
+    text-align: left;
+}
+.c_nav{
+    background-color: #3333;
+    margin-bottom: 10px;
+}
+.c_fondo{
+    background-color: #3333;
+}
+.centrar{
+    text-align: center;
+}
+.esp_top{
+    margin-top: 30px;
+}
+.esp_busc{
+    margin-top: 100px;
+}
+.nav_top{
+    margin-top: 75px;
+}
+.img_heigh{
+    height: 220px ;
+}
+.img_center{
+    text-align: center;
+    position: static;
+    left: 50%;
+    bottom: 50%;
+}
+.tb{
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+.centrarimg{
+    width: 500px;
+}
+.cont{
+    text-align: center;
+    margin-bottom: 0%;
+}
+html{
+    scroll-behavior: smooth;
+}
